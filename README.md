@@ -6,5 +6,5 @@ This Github Repository contains projects that I have created as part of my Data 
 
 * Creating A Chatbot
   * Add Description
-* Stock Price Scrapper
+* Stock Price Scraper
   * Add Description
