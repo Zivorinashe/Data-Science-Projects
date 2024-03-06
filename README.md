@@ -8,3 +8,5 @@ This Github Repository contains projects that I have created as part of my Data 
   * Add Description
 * Stock Price Scraper
   * Add Description
+* Simple Data Analytics
+  * Add Description
