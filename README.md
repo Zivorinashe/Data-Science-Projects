@@ -5,3 +5,6 @@
 This Github Repository contains projects that I have created as part of my Data Science training. My Data Science Projects inclde, but are not limited to:
 
 * Creating A Chatbot
+  * Add Description
+* Stock Price Scrapper
+  * Add Description
