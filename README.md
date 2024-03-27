@@ -2,7 +2,7 @@
 
 # Zivo's Data Science Projects
 
-This Github Repository contains projects that I have created as part of my Data Science training. My Data Science Projects inclde, but are not limited to:
+This Github Repository contains projects that I have created as part of my Data Science training. My Data Science Projects include, but are not limited to:
 
 * Creating A Chatbot
   * This project focuses on developing a chatbot using natural language processing (NLP) techniques. The chatbot interacts with users to provide information, answer questions, 
