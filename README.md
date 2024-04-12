@@ -12,3 +12,7 @@ This Github Repository contains projects that I have created as part of my Data 
 * Simple Data Analytics
   * In this set of projects, I conducted data analytics tasks such as data cleaning, exploration, and visualization. Using popular Python libraries like Pandas and 
     Matplotlib, I analyzed datasets to derive insights and make data-driven decisions.
+* Flight Price Prediction 
+  * This project predicts flight prices using machine learning and offers interactive visualizations for data exploration. By analyzing historical flight data, it provides 
+    insights into pricing trends and helps users make informed travel decisions.
+ 
